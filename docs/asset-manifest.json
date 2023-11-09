@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fortune-skills-diagnosis/static/css/main.f855e6bc.css",
+    "main.js": "/fortune-skills-diagnosis/static/js/main.7cd21fab.js",
+    "static/js/787.dc3eeb85.chunk.js": "/fortune-skills-diagnosis/static/js/787.dc3eeb85.chunk.js",
+    "static/media/logo.svg": "/fortune-skills-diagnosis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fortune-skills-diagnosis/index.html",
+    "main.f855e6bc.css.map": "/fortune-skills-diagnosis/static/css/main.f855e6bc.css.map",
+    "main.7cd21fab.js.map": "/fortune-skills-diagnosis/static/js/main.7cd21fab.js.map",
+    "787.dc3eeb85.chunk.js.map": "/fortune-skills-diagnosis/static/js/787.dc3eeb85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7cd21fab.js"
+  ]
+}

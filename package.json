@@ -20,7 +20,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "mv": "move build docs",
+    "rm": "rmdir /S /Q docs",
+    "deploy": "npm run rm && npm run build && npm run mv && git add . && git commit -m 'deploy' && git push origin master"
   },
   "eslintConfig": {
     "extends": [
@@ -39,5 +42,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "https://niwoshi.github.io/fortune-skills-diagnosis",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
